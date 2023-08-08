@@ -33,7 +33,7 @@ The dataset contains the following attributes:
    git clone https://github.com/Subrat66/Heart_disease_prediction.git
 
 2. Install the required packages:
-    pip install pandas matplotlib seaborn
+    pip install pandas matplotlib seaborn numpy scikit-learn
 
 3. Open and run the heart_disease_prediction.ipynb Jupyter Notebook to preprocess the data, perform exploratory data analysis, and train machine learning models.
 
